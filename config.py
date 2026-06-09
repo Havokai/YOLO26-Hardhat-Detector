@@ -9,7 +9,7 @@ VIDEO_SOURCE = 0  # 0 — веб-камера, путь к файлу или URL
 DEVICE = 'cuda'  # 'cuda' или 'cpu'
 CONF_THRESHOLD = 0.5
 
-VIDEO_FILE_PATH = 't4.mp4'
+VIDEO_FILE_PATH = 't3.mp4'
 
 # --- Трекер ---
 TRACKER_TYPE = "kalman"
